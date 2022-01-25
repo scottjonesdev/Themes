@@ -1,0 +1,17 @@
+<!-- Author: scottjonesdev -->
+
+<!-- Loosely inspired by the text editor theme Monokai created by Wimer Hazenberg. This palette is modified to have a less colours and more shades of gray. This is basically the palette I use for my Treenote music project. https://treenotemusic.ca -->
+
+<svg width="96px" height="64px" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1">
+  <rect width='96' height='64' id='background' fill='#272822'></rect>
+  <!-- Foreground -->
+  <circle cx='24' cy='24' r='8' id='f_high' fill='#66D9EF'></circle>
+  <circle cx='40' cy='24' r='8' id='f_med' fill='#AE81FF'></circle>
+  <circle cx='56' cy='24' r='8' id='f_low' fill='#F92672'></circle>
+  <circle cx='72' cy='24' r='8' id='f_inv' fill='#373834'></circle>
+  <!-- Background -->
+  <circle cx='24' cy='40' r='8' id='b_high' fill='#4E4F4A'></circle>
+  <circle cx='40' cy='40' r='8' id='b_med' fill='#42433D'></circle>
+  <circle cx='56' cy='40' r='8' id='b_low' fill='#373833'></circle>
+  <circle cx='72' cy='40' r='8' id='b_inv' fill='#F92672'></circle>
+</svg>
